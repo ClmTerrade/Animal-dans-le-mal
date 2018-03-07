@@ -1,0 +1,245 @@
+.tps-section {
+  width: 100%;
+  height: 500px;
+  -webkit-perspective: 10em;
+  -moz-perspective: 10em;
+  -ms-perspective: 10em;
+  -o-perspective: 10em;
+  perspective: 10em;
+  -webkit-perspective-origin: center bottom;
+  -moz-perspective-origin: center bottom;
+  -ms-perspective-origin: center bottom;
+  -o-perspective-origin: center bottom;
+  perspective-origin: center bottom;
+  -webkit-perspective-origin: 50% 50%;
+  -moz-perspective-origin: 50% 50%;
+  -ms-perspective-origin: 50% 50%;
+  -o-perspective-origin: 50% 50%;
+  perspective-origin: 50% 50%;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+
+.tps-wrapper {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+
+.wwf img{
+
+max-width: 150px;
+margin: auto;
+
+}
+
+
+.wwf{
+
+  margin-bottom: 40px;
+}
+
+.animal-pls h1{
+
+font-family: sans-serif;
+font-weight: 600;
+font-size: 90px;
+
+
+
+
+}
+
+.animal-pls{
+
+
+}
+
+
+.wwffrance {
+
+max-width: 900px;
+margin: auto;
+
+}
+
+.wwffrance h2{
+/*
+color: #fe6a22!important; */
+
+
+}
+html{
+
+  margin:0;
+  padding:0;
+  background: url(background.png) repeat center center fixed ;
+  background-size: auto;
+  padding: 0;
+}
+
+
+.bouton {
+
+
+      display: inline-flex;
+}
+
+
+.tigre-pls h1{
+color: #fe6a22!important;
+margin-bottom: 0!important;
+padding-left: 100px!important;
+}
+
+
+
+.tigre-pls p{
+
+padding-left: 100px!important;
+}
+
+.tigre-pls
+
+{
+margin-top: 80Px;
+
+
+}
+
+
+
+
+
+.liseret {
+
+
+  border: solid 0.5px black;
+
+  max-width: 1000px;
+margin: auto;
+}
+
+.tigre {
+
+
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+
+  font-size: 1.5em;
+}
+
+.fond-blanc{
+
+  background-color: white;
+
+  max-width: 1000px;
+margin: auto;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+
+
+}
+
+
+.end{
+
+
+  padding-bottom: 40px;
+}
+
+
+.tigre-xp{
+
+
+  max-width: 800px;
+  padding-left: 100px!important;
+}
+
+
+.tigre-xp h2{
+
+  padding-left: 0;
+}
+
+
+.tigreA{
+
+
+  text-align: left!important;
+
+}
+
+
+.liseret2{
+
+  border: solid 0.5px #fe6a22;
+
+}
+
+
+
+.fond-black{
+
+
+margin-top: 40px;
+padding-top: 40px;
+
+  padding:0;
+  background: url(tiled_geo_dark.png) repeat center center fixed ;
+  background-size: auto;
+  padding: 0;
+
+  /* background-color: white; */
+
+  max-width: 1000px;
+margin: auto;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;
+
+
+}
+
+
+.footer1 {
+
+color: white;
+
+}
+
+.footer1 h2{
+
+  color: white;
+
+  font-weight: 200;
+  font-size: 1em;
+  text-align: center;
+
+
+
+
+}
+
+.end p{
+  text-align: center;
+
+margin-top: 100px;
+}
+
+
+
+.footer-img{
+
+margin: auto;
+}
